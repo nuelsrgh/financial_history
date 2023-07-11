@@ -3,7 +3,7 @@ const btnLogin = document.querySelector('.login__btn');
 
 
 const account1 = {
-  name: 'Jonas Schmedtmann',
+  name: 'Immanuel Saragih',
   movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
   interestRate: 1.2, // %
   pin: 1111,
